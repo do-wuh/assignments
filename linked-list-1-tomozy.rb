@@ -50,6 +50,10 @@ end
 node1 = LinkedListNode.new(37)
 node2 = LinkedListNode.new(99, node1)
 node3 = LinkedListNode.new(12, node2)
+#same as above writen another way
+#node3 = LinkedListNode.new(12)
+#node3.next_node = node2
+
 
 print_values(node3)
 
