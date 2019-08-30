@@ -1,0 +1,5 @@
+.DS_Store
+
+# Ignore folders
+image-blur/
+tests/

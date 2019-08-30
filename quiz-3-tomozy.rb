@@ -12,4 +12,5 @@ class Gaming
 end
 
 type = Gaming.new(['Arcade', 'Computer', 'Console', 'Handheld', 'Mobile', 'Virtual Reality'],['Action', 'Adventure', 'Fighting', 'Platform', 'Puzzle', 'Racing', 'Role-Playing', 'Shooter', 'Simulation', 'Sports', 'Startegy'])
+
 type.random_game
